@@ -14,7 +14,7 @@ switch(command){
         break;
      case "tree":
         treeobj.treeFn(path);
-        break
+        break;
          case "organise":
     organiseobj.organiseFn(path);
     break;
